@@ -1,6 +1,5 @@
 from django.contrib import admin
 from django.urls import path, include
-
 from rest_app.views import Products
 
 # from rest_tms.views import products, get_product_detail
